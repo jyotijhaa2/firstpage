@@ -1,0 +1,21 @@
+.card
+{
+    background-color: rgb(39, 19, 219);
+    margin: top 15px; 
+    padding: 5px;
+    border: solid;
+    border-color: blanchedalmond;
+}
+.row
+{
+    padding-top: 5px;
+}
+
+.koi_bhi{
+    /* background-image: url("images/IMG_20201012_074510.jpg") !important; */
+
+    background-image:url('images/IMG_20201025_094049.jpg');
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+}

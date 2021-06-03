@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\web\\smartedu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "smartedu"
+	}
+}
